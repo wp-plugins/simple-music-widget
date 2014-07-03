@@ -13,7 +13,7 @@ Simple Music Widget creates a widget that can be used to display a music player 
 This plugin creates a widget that can be used to display a music player which includes artist's name, song, album and a cover image. The user is also able to add a short description about the song.
 
 = Requirements =
-Your Theme must support widgets in order to use this plugin. Visit [WordPress Widgets](http://codex.wordpress.org/WordPress_Widgets) for more details. Also, it only works with browsers which support HTML5 <audio> element. 
+Your Theme must support widgets in order to use this plugin. Visit [WordPress Widgets](http://codex.wordpress.org/WordPress_Widgets) for more details. Also, it only works with browsers which support HTML5 audio element. 
 
 = Translations =
 To translate the plugin to a particular language, use the file provided in /languages/ folder.
