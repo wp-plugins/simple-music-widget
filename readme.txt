@@ -35,6 +35,16 @@ To translate the plugin to a particular language, use the file provided in /lang
 4. Drag and drop 'simple music widget' in the widget area
 5. Configure the widget
 
+== Frequently Asked Questions == 
+
+= Can I upload music files directly from my website? =
+Yes, you can upload music files by going to 'Media > Add New' and select or drag your audio file. Once the file uploaded, copy the location (example.com/files/my-audio.mp3) and paste it in the 'Direct URL' field in the widget settings.
+
+= Can I have multiple widgets? =
+Yes, you can have multiple widgets with different songs.
+
+
+
 == Screenshots ==
 1. Widget settings.
 2. Simple music widget - Google Chrome.
