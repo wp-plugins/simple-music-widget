@@ -1,6 +1,6 @@
 === Simple Music Widget ===
 Contributors: dolatabadi
-Tags: WordPress Music Player, Music Player for WordPress, WordPress Music, Play song in WordPress, Music File,Audio File Play in WordPress, Music widget
+Tags: WordPress Music Player, Music Player for WordPress, WordPress Music, Play song in WordPress, Music File,Audio File Play in WordPress, Music widget, mp3 files
 Requires at least: 3.9.1
 Tested up to: 3.9.1
 Stable tag: trunk
@@ -43,13 +43,16 @@ Yes, you can upload music files by going to 'Media > Add New' and select or drag
 = Can I have multiple widgets? =
 Yes, you can have multiple widgets with different songs.
 
-
-
 == Screenshots ==
 1. Widget settings.
 2. Simple music widget - Google Chrome.
 3. Simple music widget - IE 11.
 
 == Changelog ==
+= 1.1 =
+* Fixed issues with translation
+* Fixed 'album cover' style
+* Added Farsi(Persian) translation
+
 = 1.0 =
 * Initial release.

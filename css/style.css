@@ -12,20 +12,20 @@ audio{
 }
 .simple-music-widget {
     background: none repeat scroll 0 0 #050505;
-	padding: 10px;
+    padding: 10px;
     position: relative;
 }
 .simple-music-widget p{
-	color:#fff;
+    color:#fff;
 }
 .simple-music-widget .artwork {
     background: none repeat scroll 0 0 #181818;
     padding: 3px;
     width: 56px;
-	display: block;
-    position: absolute;
+    display: block;
+    float:left;
     top: 10px;
-	line-height:0;
+    line-height:0;
 }
 .simple-music-widget .artwork img {
     width: 56px;
@@ -34,21 +34,21 @@ audio{
     margin-left: 72px;
 }
 .simple-music-widget .songspecific {
-	background: none repeat scroll 0 0 #181818;
+    background: none repeat scroll 0 0 #181818;
     display: block;
     line-height: 20px;
     min-height: 60px;
     overflow: hidden;
     padding: 3px 0 0 5px;
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 .simple-music-widget .songspecific strong {
     color: #ff1818;
-	font-weight: normal;
+    font-weight: normal;
 }
 .meta {
     background: none repeat scroll 0 0 #EFEFF0;
     color: #060606;
-	display: block;
+    display: block;
     padding: 10px 10px 10px;
 }
